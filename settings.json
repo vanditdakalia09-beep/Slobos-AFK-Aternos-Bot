@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm Helping the server stay online :D",
-        "Have Fun Guys!",
-        "Minecraft is the best!"
+        "Have Fun Guys!"
       ]
     },
     "chat-log": true,
@@ -69,8 +67,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
