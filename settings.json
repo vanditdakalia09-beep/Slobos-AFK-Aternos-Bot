@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cynix.aternos.me:31804",
+    "ip": "Cynix.aternos.me",
     "port": 31804,
     "version": "",
     "try-creative": false
